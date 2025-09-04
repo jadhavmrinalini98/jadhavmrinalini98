@@ -1,12 +1,12 @@
-![](https://komarev.com/ghpvc/?username=prajwalvermaNEU&color=green)
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Prajwal!
+![](https://komarev.com/ghpvc/?username=jadhavmrinalini98&color=green)
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Mrinalini!
 
-With a strong foundation in software development and a passion for excellence, I have experience as a Senior Software Developer at Standard Chartered Bank GBS, where, being an Excelsior, I not only developed complex functionalities but also ensured their seamless functioning:
+With a strong foundation in software development and a passion for excellence, I have experience as a  Software Developer at Humanitarians AI Inc, where, being an Excelsior, I not only developed complex functionalities but also ensured their seamless functioning:
 
 
 ### Employer?
 > [!IMPORTANT]  
-> Looking to hire me? Let's talk: +1 (617) 906-3129
+> Looking to hire me? Let's talk: +1 (857) 395-8941
 
 ### Tech Stacks I work on:  
 <code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,4 +29,4 @@ With a strong foundation in software development and a passion for excellence, I
 
 ### Connect with me
 
-[Linkedin](https://www.linkedin.com/in/prajwal-verma-37692714b/)
+[Linkedin](https://www.linkedin.com/in/mrinalini-jadhav-b26283190/)
